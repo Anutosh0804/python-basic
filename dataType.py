@@ -23,7 +23,7 @@ print(number)
 #comparisons
 
 num_1 = 3
-num_2 = 2
+num_2 = 4
 
 print (num_1 == num_2) #equals
 print(num_1 != num_2) #not equals
